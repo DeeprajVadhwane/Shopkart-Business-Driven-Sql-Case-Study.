@@ -4,5 +4,5 @@ SQL case study analyzing retail sales performance using customer and sales datas
 
 ## GitHub
 
-[GitHub](https://docs.google.com/document/d/1f8DmFNwXxxz9BSXlYP8ItETpJINF1Y4n_3Do2vXydgs/edit?usp=sharing)
+[GitHub](https://docs.google.com/document/d/1b_CY1oJcrMAMTvc0Mc2eC7FV9lNCjIoy/edit?usp=sharing&ouid=108906694960928045680&rtpof=true&sd=true)
 
