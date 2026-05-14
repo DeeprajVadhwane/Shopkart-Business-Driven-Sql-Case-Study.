@@ -1,4 +1,4 @@
-## Retail Sales Performance Analysis using SQL
+# Shopkart Business Driven Sql Case Study. Retail Sales Performance Analysis using SQL
 
 SQL case study analyzing retail sales performance using customer and sales datasets. Covers WHERE, GROUP BY, GROUP BY with WHERE, JOINs, revenue analysis, customer insights, and sales trends.
 
